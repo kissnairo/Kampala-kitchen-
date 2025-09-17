@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Kampala Kitchen",
+    "slug": "kampala-kitchen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "platforms": ["android"],
+    "android": {
+      "package": "com.kampalakitchen.app",
+      "versionCode": 1
+    }
+  }
+}
